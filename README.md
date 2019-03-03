@@ -9,6 +9,7 @@ For those who don't know, in order to autorun a script on startup press "win + R
 
 You should change the slave.py to slave.pyw, this makes it so that the console window doesnt open and your victim doesnt see that he's getting hacked. If you are using pyinstaller, add --windowed when creating your exe. This has exactly the same effect.
 
+Use ":help" to see a list of all the commands. Apart from those commands you can still use most standard terminal commands.
 
 Possible Improvements:
 
